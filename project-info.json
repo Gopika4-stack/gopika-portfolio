@@ -1,0 +1,19 @@
+{
+  "student": "Gangavathu Gopika",
+  "course": "B.E. Computer Science Engineering",
+  "technologies": [
+    "HTML5",
+    "CSS3",
+    "Bootstrap 5",
+    "JavaScript ES6+"
+  ],
+  "portfolio_sections": [
+    "Home",
+    "About",
+    "Education",
+    "Skills",
+    "Projects",
+    "Achievements",
+    "Contact"
+  ]
+}
